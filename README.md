@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi 👋 my name is *Volodymyr Styk* !
 
-<!--
-**VolodymyrStyk/VolodymyrStyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>**Contact Information:**  
+**Location: Lviv**  
+**Phone: _+380977088243_**  
+**E-mail: volodymyr.styk@gmail.com**  
+**LinkedIn: https://www.linkedin.com/in/volodymyr-styk/**  
+  
+--- 
+### About me:  
+  
+I want to be a part professional team, where I can grow and learn new. The team in which I can fully realize myself and my skills. I am learning HTML, CSS, JS, and JS frameworks. I take responsibility for my obligations and the tasks set before me. Stress-resistant and disciplined (worked in the field of logistics, where he faced stressful situations every day).  
