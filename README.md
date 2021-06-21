@@ -1,5 +1,5 @@
 # Hi 👋 my name is *Volodymyr Styk* !
-## I am beginer web developer from Lviv
+## I am web developer from Lviv
 >**Contact Information:**  
 **Location: Lviv**  
 **Phone: _+380977088243_**  
