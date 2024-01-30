@@ -17,14 +17,15 @@ I want to be a part professional team, where I can grow and learn new. The team 
 ![TypeScript](https://img.shields.io/badge/-JavaScript-090909?style=plastic&logo=TypeScript)  
 ![NodeJS](https://img.shields.io/badge/-Node_JS-090909?style=plastic&logo=nodedotjs)  
 ![Vue](https://img.shields.io/badge/-React-090909?style=plastic&logo=vuedotjs)  
-![React](https://img.shields.io/badge/-React-090909?style=plastic&logo=react)  
+![React](https://img.shields.io/badge/-React-090909?style=plastic&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-090909?style=plastic&logo=angular) 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=plastic&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=plastic&logo=css3)  
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=plastic&logo=git)  
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=plastic&logo=sass)  
-![Angular](https://img.shields.io/badge/-Angular-090909?style=plastic&logo=angular)  
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=plastic&logo=mysql)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=plastic&logo=MongoDB)  
+![GraphQL](https://img.shields.io/badge/-MongoDB-090909?style=plastic&logo=graphql)  
 
 **_Operating Systems_**  
 ![Windows](https://img.shields.io/badge/-Windows-090909?style=plastic&logo=windows)  
