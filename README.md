@@ -14,7 +14,7 @@ I want to be a part professional team, where I can grow and learn new. The team 
 ### My skills:  
 **_Programming Languages/ Technologies_**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=plastic&logo=JavaScript)  
-![NodeJS](https://img.shields.io/badge/-Node_JS-090909?style=plastic&logo=node)  
+![NodeJS](https://img.shields.io/badge/-Node_JS-090909?style=plastic&logo=nodedotjs)  
 ![React](https://img.shields.io/badge/-React-090909?style=plastic&logo=react)  
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=plastic&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=plastic&logo=css3)  
